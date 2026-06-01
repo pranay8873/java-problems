@@ -13,6 +13,7 @@ import java.util.Arrays;
 //
 //Input: cost = [1,2,3]
 //Output: 5
+//Explanation: The customer can buy the first two candies for a total cost of 3 and take the third candy for free.
 public class candies_problem {
     {
         public int minimumCost(int[] cost) {
