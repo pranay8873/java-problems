@@ -49,3 +49,16 @@ public class Total_waveness {
         }
 
 }
+//Example :-
+//Input: num1 = 120, num2 = 130
+//
+//Output: 3
+//
+//Explanation:
+//
+//In the range [120, 130]:
+//120: middle digit 2 is a peak, waviness = 1.
+//121: middle digit 2 is a peak, waviness = 1.
+//130: middle digit 3 is a peak, waviness = 1.
+//All other numbers in the range have a waviness of 0.
+//Thus, total waviness is 1 + 1 + 1 = 3.
